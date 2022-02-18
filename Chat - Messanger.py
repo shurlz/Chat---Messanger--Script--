@@ -52,3 +52,5 @@ class Chat_App:
 # displaying information
     def display_info(self):
         return self.users
+
+user = Chat_App(1)    
